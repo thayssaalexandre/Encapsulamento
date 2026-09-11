@@ -36,3 +36,10 @@
         {
             get {  return _VELOCIDADEATUAL; }
         }
+
+        ///EXERCÍCIO 4///
+        Termometro temperatura = new Termometro();
+        temperatura.celcius = 30;
+        Console.WriteLine(temperatura.celcius);
+        Console.WriteLine(temperatura.fahrenheit);
+        Console.WriteLine(temperatura.kelvin);
