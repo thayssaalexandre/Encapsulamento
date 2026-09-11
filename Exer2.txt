@@ -1,3 +1,17 @@
+          ////EXERCÍCIO 2//// 
+            
+            
+         Produto p = new Produto();
+
+         p.Preco = -20.99;
+            Console.WriteLine(p.Preco);
+
+         p.Preco = 55.7;
+            Console.WriteLine(p.Preco);
+        
+
+
+        ///EXERCÍCIO 3///
         private int _VELOCIDADEATUAL = 60;
 
         public void Acelerar()
